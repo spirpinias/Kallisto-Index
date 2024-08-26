@@ -1,7 +1,3 @@
-[![Code Ocean Logo](images/CO_logo_135x72.png)](http://codeocean.com/product)
-
-<hr>
-
 # Kallisto 
 
 Kallisto is a program for quantifying abundances of transcripts from bulk and single-cell RNA-Seq data, or more generally of target sequences using high-throughput sequencing reads. This tool generates the index required by the Kallisto-Quant. 
@@ -54,8 +50,3 @@ Maximum Number of Targets in an Equivalence Class
 
 https://pachterlab.github.io/kallisto/about
 https://pachterlab.github.io/kallisto/manual
-
-<hr>
-
-[Code Ocean](https://codeocean.com/) is a cloud-based computational platform that aims to make it easy for researchers to share, discover, and run code.<br /><br />
-[![Code Ocean Logo](images/CO_logo_68x36.png)](https://www.codeocean.com)
